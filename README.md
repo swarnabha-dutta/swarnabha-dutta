@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/swarnabha-dutta/swarnabha-dutta/refs/heads/main/leetcode-profile.png" width="100%" />
+</p>
+
 # 👋 Hi, I'm Swarnabha
 
 🎯 **Full-Stack Developer (MERN + Next.js + Prisma) — Building Production SaaS & AI Tools**  
@@ -16,40 +20,40 @@ I recently graduated and have already **built, deployed & iterated 3 real SaaS-s
 | **Databases** | MongoDB, PostgreSQL |
 | **DevOps & Deployment** | Vercel, Render, CI/CD (GitHub Actions) |
 | **Auth Systems** | Clerk Auth (MFA, OAuth), Better-Auth |
-| **AI** | Google Gemini API, event-driven automation |
-| **Other** | Redis Caching, Cron Jobs, Webhooks |
+| **AI & Automation** | Google Gemini API, Cron Jobs, Webhooks, Event Automation |
+| **Other** | Redis Caching, Rate-Limit, File Upload, MFA |
 
 ---
 
 ## 🏆 Production-Ready Projects
 
 ### 🏥 [HealthCheckBuddy](https://github.com/swarnabha-dutta/Health_Check_Buddy)
-A modern telemedicine platform — **full-stack healthcare system**
-- **Performance optimized** → Lighthouse **93.5/100**
-- Secure patient-doctor sessions & onboarding
-- Prisma + Neon Postgres, CI/CD deploy pipeline
+A modern telemedicine platform — **Full-stack healthcare system**
+- ⚡ Performance optimized → Lighthouse **93.5 / 100**
+- 👨‍⚕️ Secure patient-doctor onboarding
+- 🧪 Prisma + NeonDB + CI/CD pipeline
 
-**[View Live Demo →](https://health-check-buddy.vercel.app)**
+**[🚀 Live Demo](https://health-check-buddy.vercel.app)**
 
 ---
 
 ### 🤖 [AI Code Reviewer](https://github.com/swarnabha-dutta/AI_Code_Reviewer)
-Automated code analysis SaaS — Gemini powered
-- ⚙️ **667× faster** via Redis caching (**20s → 30ms**)
-- 🔐 Per-user rate limit with Clerk token
-- 🌗 Dark/Light mode + file upload support
+Automated Gemini-powered code review SaaS
+- ⚙️ **Redis caching — 667× faster** (20s → 30ms)
+- 🔐 Clerk auth + per-user rate limit
+- 🌗 Light/Dark UI + file upload
 
-**[View Live Demo →](https://ai-code-reviewer.vercel.app)**
+**[🚀 Live Demo](https://ai-code-reviewer.vercel.app)**
 
 ---
 
 ### 📈 [StockPilot](https://github.com/swarnabha-dutta/stock_pilot)
 Real-time market dashboard
-- TradingView charts + watchlist
+- 📊 TradingView charts + watchlist
 - 🤖 AI daily summaries (cron + Gemini)
-- Better-Auth secure login + emails
+- 🔐 Better-Auth secure login + email
 
-**[View Live Demo →](https://stock-pilot.vercel.app)**
+**[🚀 Live Demo](https://stock-pilot.vercel.app)**
 
 ---
 
@@ -62,16 +66,16 @@ Real-time market dashboard
 
 ---
 
-## 🧩 DSA & Problem-Solving
+## 🧩 DSA & Problem-Solving — LeetCode
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/swarnabhadutta909?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats"/>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/swarnabha-dutta/swarnabha-dutta/refs/heads/main/leetcode-profile.png" width="90%" />
+</p>
 
 <p align="center">
   ✅ <b>258+ problems solved</b><br/>
-  ✅ Contest Rating <b>1457</b> (Top 60%)<br/>
-  ✅ Max Streak: <b>19 days</b>
+  🏅 Contest Rating: <b>1457</b> (Top 60%)<br/>
+  🔥 Max Streak: <b>19 days</b>
 </p>
 
 ---
@@ -94,31 +98,31 @@ Real-time market dashboard
 
 ## 🎯 What I'm Doing Now
 
-- 🔍 Looking for **Remote Full-Stack Developer** roles (India / Global)
-- 🚀 Improving + scaling my SaaS apps
-- 📚 Learning System Design & advanced DSA
-- 💡 Contributing to open-source projects
+- 🔍 Searching for **Remote Full-Stack Developer roles**
+- 🚀 Scaling my SaaS products & adding analytics
+- 📚 Learning System Design + Advanced DSA
+- 💡 Growing open-source contributions
 
 ---
 
 ## 💼 Why Hire Me?
 
-✅ **Proven execution** — 3 production apps deployed independently  
-✅ **Performance-focused** — 93.5 Lighthouse, 667x caching optimization  
-✅ **Full ownership** — Designed, built, deployed, and maintained end-to-end  
-✅ **Modern stack** — Next.js 14, Prisma, TypeScript, CI/CD pipelines  
-✅ **Problem solver** — 258+ DSA problems, Contest rating 1457  
+✔️ **Execution-focused** — 3 production apps shipped  
+✔️ **Performance-driven** — Lighthouse 93.5, 667× caching  
+✔️ **End-to-end ownership** — design → dev → deploy  
+✔️ **Modern stack** — Next.js 14, Prisma, CI/CD  
+✔️ **Problem solver** — 258+ LeetCode, Rating 1457  
 
 ---
 
 <div align="center">
 
-### ⭐ If my work inspired you — consider starring my repos!
+### ⭐ If my work inspired you — consider ⭐ starring my repos!
 
 <img src="https://komarev.com/ghpvc/?username=swarnabha-dutta&color=blueviolet&style=flat-square&label=Profile+Views"/>
 
 ---
 
-> 🧩 *I ship fast, learn fast — and build products based on metrics, not theory.*
+> 🧩 *I ship fast, learn fast — and build products based on metrics — not theory.*
 
 </div>
