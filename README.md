@@ -58,15 +58,11 @@ Real-time market dashboard
 - 🔐 Better-Auth secure login + email
 
 **[🚀 Live Demo](https://stock-pilot.vercel.app)**
-
 ---
 
-## 📊 GitHub Insights
+## 📈 Github  Activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=swarnabha-dutta&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnabha-dutta&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=swarnabha-dutta&theme=tokyo-night&hide_border=true&area=true" />
 
 ---
 
@@ -82,8 +78,8 @@ Real-time market dashboard
 </p>
 <p align="center">
   ✅ <b>258+ problems solved</b><br/>
-  🏅 Contest Rating: <b>1457</b> (Top 60%)<br/>
-  🔥 Max Streak: <b>19 days</b>
+  ✅ Contest Rating <b>1457</b> (Top 60%)<br/>
+  ✅ Max Streak: <b>19 days</b>
 </p>
 
 ---
