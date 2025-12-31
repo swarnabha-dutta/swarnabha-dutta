@@ -1,8 +1,9 @@
+
+<!--github-consistency & contributions-->
 <p align="center">
-  <img width="1150" height="250" alt="image" src="https://github.com/user-attachments/assets/8624f935-4c4a-416e-afa5-19110817d127" />
-
-
+  <img src="https://raw.githubusercontent.com/swarnabha-dutta/swarnabha-dutta/refs/heads/main/leetcode-profile.png" width="100%" />
 </p>
+
 
 # 👋 Hi, I'm Swarnabha
 
@@ -69,11 +70,15 @@ Real-time market dashboard
 ---
 
 ## 🧩 DSA & Problem-Solving — LeetCode
-
+<!-- Leetcode-profile-->
 <p align="center">
   <img src="https://raw.githubusercontent.com/swarnabha-dutta/swarnabha-dutta/refs/heads/main/leetcode-profile.png" width="90%" />
 </p>
 
+<!-- Leetcode-consistency-->
+<p align="center">
+<img width="1150" height="250" alt="image" src="https://github.com/user-attachments/assets/d750fe0b-7bcb-4841-b25b-2df8a984382f" />
+</p>
 <p align="center">
   ✅ <b>258+ problems solved</b><br/>
   🏅 Contest Rating: <b>1457</b> (Top 60%)<br/>
