@@ -27,8 +27,14 @@ I recently graduated and have already **built, deployed & iterated 3 real SaaS-s
 | **AI & Automation** | Google Gemini API, Cron Jobs, Webhooks, Event Automation |
 | **Other** | Redis Caching, Rate-Limit, File Upload, MFA |
 
----
 
+---
+##  Tech-Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,react,tailwind,mongodb,git,redis" />
+</p>
+
+---
 ## 🏆 Production-Ready Projects
 
 ### 🏥 [HealthCheckBuddy](https://github.com/swarnabha-dutta/Health_Check_Buddy)
@@ -118,6 +124,13 @@ Real-time market dashboard
 ✔️ **Problem solver** — 258+ LeetCode, Rating 1457  
 
 ---
+
+
+<p align="center">
+  <a href="mailto:swarnabhadutta909@gmail.com">
+    <img src="https://img.shields.io/badge/-Hire%20Me-28a745?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <div align="center">
 
