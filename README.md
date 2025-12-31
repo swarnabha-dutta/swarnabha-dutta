@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/swarnabha-dutta/swarnabha-dutta/refs/heads/main/leetcode-profile.png" width="100%" />
+  <img width="1150" height="250" alt="image" src="https://github.com/user-attachments/assets/8624f935-4c4a-416e-afa5-19110817d127" />
+
+" width="100%" />
 </p>
 
 # 👋 Hi, I'm Swarnabha
