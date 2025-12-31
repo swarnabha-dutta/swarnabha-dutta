@@ -1,7 +1,8 @@
 
 <!--github-consistency & contributions-->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/swarnabha-dutta/swarnabha-dutta/refs/heads/main/leetcode-profile.png" width="100%" />
+ <img width="1373" height="666" alt="image" src="https://github.com/user-attachments/assets/a42f72aa-9338-485b-9038-cd22f85eafd7" />
+
 </p>
 
 
