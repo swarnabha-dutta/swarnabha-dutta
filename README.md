@@ -83,7 +83,7 @@ Real-time market dashboard
 <img width="1150" height="250" alt="image" src="https://github.com/user-attachments/assets/d750fe0b-7bcb-4841-b25b-2df8a984382f" />
 </p>
 <p align="center">
-  ✅ <b>267+ problems solved</b><br/>
+  ✅ <b>272+ problems solved</b><br/>
   ✅ Contest Rating <b>1457</b> (Top 60%)<br/>
   ✅ Max Streak: <b>19 days</b>
 </p>
