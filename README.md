@@ -63,7 +63,7 @@ I enjoy working across the stack — from **database schema design** to **API pe
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,typescript,tailwind,postgres,mongodb,prisma,redis,git,github,docker"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind,mongodb,prisma,redis,git,github,docker"/>
 
 </p>
 
