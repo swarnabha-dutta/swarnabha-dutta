@@ -167,7 +167,7 @@ https://github.com/swarnabha-dutta/stock_pilot
 <img src="https://img.shields.io/badge/Cache%20Speedup-667x-blue"/>
 <img src="https://img.shields.io/badge/Lighthouse-93.5-brightgreen"/>
 <img src="https://img.shields.io/badge/SaaS%20Apps-3-purple"/>
-<img src="https://img.shields.io/badge/LeetCode-276%2B-orange"/>
+<img src="https://img.shields.io/badge/LeetCode-279%2B-orange"/>
 
 </p>
 
@@ -190,7 +190,7 @@ https://github.com/swarnabha-dutta/stock_pilot
 
 # 🧩 Problem Solving
 
-• 276+ LeetCode problems solved  
+• 279+ LeetCode problems solved  
 • strong foundation in data structures and algorithms  
 • regular contest participation  
 
