@@ -68,34 +68,7 @@ I enjoy working across the stack — from **database schema design** to **API pe
 </p>
 
 ---
-
 # 🏗️ Production Applications
-
-## 🏥 HealthCheckBuddy
-Full-stack telemedicine platform with role-based workflows
-
-Key engineering highlights:
-
-• RBAC system for Patient / Doctor / Admin dashboards  
-• Atomic credit transactions using Prisma `$transaction()`  
-• Secure video consultation using Vonage Video API  
-• Server Actions for backend logic colocation  
-• Optimized performance → Lighthouse score 93.5  
-
-Tech badges:
-
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma)
-![Clerk](https://img.shields.io/badge/Auth-Clerk-purple)
-
-Live:
-https://health-check-buddy.vercel.app
-
-Repo:
-https://github.com/swarnabha-dutta/Health_Check_Buddy
-
----
 
 ## 🤖 AI Code Reviewer
 LLM-powered SaaS that analyzes code quality automatically
@@ -134,6 +107,33 @@ https://github.com/swarnabha-dutta/AI_Code_Reviewer
 
 ---
 
+
+
+## 🏥 HealthCheckBuddy
+Full-stack telemedicine platform with role-based workflows
+
+Key engineering highlights:
+
+• RBAC system for Patient / Doctor / Admin dashboards  
+• Atomic credit transactions using Prisma `$transaction()`  
+• Secure video consultation using Vonage Video API  
+• Server Actions for backend logic colocation  
+• Optimized performance → Lighthouse score 93.5  
+
+Tech badges:
+
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma)
+![Clerk](https://img.shields.io/badge/Auth-Clerk-purple)
+
+Live:
+https://health-check-buddy.vercel.app
+
+Repo:
+https://github.com/swarnabha-dutta/Health_Check_Buddy
+
+---
 ## 📈 StockPilot
 Real-time stock insights dashboard with AI summaries
 
@@ -167,7 +167,7 @@ https://github.com/swarnabha-dutta/stock_pilot
 <img src="https://img.shields.io/badge/Cache%20Speedup-667x-blue"/>
 <img src="https://img.shields.io/badge/Lighthouse-93.5-brightgreen"/>
 <img src="https://img.shields.io/badge/SaaS%20Apps-3-purple"/>
-<img src="https://img.shields.io/badge/LeetCode-279%2B-orange"/>
+<img src="https://img.shields.io/badge/LeetCode-283%2B-orange"/>
 
 </p>
 
@@ -190,7 +190,7 @@ https://github.com/swarnabha-dutta/stock_pilot
 
 # 🧩 Problem Solving
 
-• 279+ LeetCode problems solved  
+• 283+ LeetCode problems solved  
 • strong foundation in data structures and algorithms  
 • regular contest participation  
 
