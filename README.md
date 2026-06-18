@@ -1,5 +1,5 @@
 <!-- HERO -->
-<h1 align="center">Hi 👋 I'm Swarnabha</h1>
+<div align="center">Hi 👋 I'm Swarnabha</div>
 
 <p align="center">
 Full-Stack Engineer focused on building scalable SaaS & AI-powered applications
@@ -14,8 +14,11 @@ Full-Stack Engineer focused on building scalable SaaS & AI-powered applications
 </p>
 
 ---
-
+<div align='center'>
+  
 # 🏆 Profile Badges
+</div>
+
 
 <p align="center">
 
@@ -29,7 +32,11 @@ Full-Stack Engineer focused on building scalable SaaS & AI-powered applications
 
 ---
 
+
+<div align='center'>
 # 🚀 About Me
+</div>
+
 
 I build **production-ready full-stack applications** with focus on:
 
@@ -45,7 +52,10 @@ I enjoy working across the stack — from **database schema design** to **API pe
 
 ---
 
-# 🧠 Engineering Skillset
+
+<div align='center'>
+# 🧠 Engineering Skillset  
+</div>
 
 | Domain | Technologies |
 |--------|--------------|
@@ -58,8 +68,11 @@ I enjoy working across the stack — from **database schema design** to **API pe
 | Problem Solving | Data Structures & Algorithms (276+ LeetCode) |
 
 ---
+<div align='center'>
 
 # 🛠 Tech Stack
+  
+</div>
 
 <p align="center">
 
@@ -68,9 +81,17 @@ I enjoy working across the stack — from **database schema design** to **API pe
 </p>
 
 ---
-# 🏗️ Production Applications
+<div align="center">
+# 🏗️ Production Applications  
+</div>
 
-## 🤖 AI Code Reviewer
+
+<div align="center">
+## 🤖 AI Code Reviewer  
+</div>
+
+
+
 LLM-powered SaaS that analyzes code quality automatically
 
 Key engineering highlights:
@@ -108,8 +129,12 @@ https://github.com/swarnabha-dutta/AI_Code_Reviewer
 ---
 
 
+<div align="center">
 
-## 🏥 HealthCheckBuddy
+## 🏥 HealthCheckBuddy 
+</div>
+
+
 Full-stack telemedicine platform with role-based workflows
 
 Key engineering highlights:
@@ -159,7 +184,12 @@ https://github.com/swarnabha-dutta/stock_pilot
 
 ---
 
-# 📊 Engineering Metrics
+
+<div align="center">
+
+# 📊 Engineering Metrics 
+</div>
+
 
 <p align="center">
 
