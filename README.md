@@ -1,286 +1,305 @@
-<!-- HERO -->
-<div align="center">Hi 👋 I'm Swarnabha</div>
-
 <p align="center">
-Full-Stack Engineer focused on building scalable SaaS & AI-powered applications
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,50:1E3A5F,100:2563EB&text=Swarnabha%20Dutta&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20SaaS%20Builder%20%7C%20Performance-Driven%20Developer&descAlignY=60&descColor=93C5FD&animation=fadeIn"/>
 </p>
 
 <p align="center">
-<b>MERN • Next.js • Prisma • Redis • AI APIs • CI/CD</b>
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=900&center=true&vCenter=true&width=900&lines=Building+Scalable+SaaS+Products+%F0%9F%9A%80;AI-Powered+Applications+with+Real+Impact+%F0%9F%A4%96;93%25+API+Latency+Reduction+%E2%80%94+Engineered%2C+Not+Claimed;Next.js+%7C+Node.js+%7C+TypeScript+%7C+PostgreSQL;Open+To+Remote+Opportunities+%F0%9F%8C%8D" alt="Typing SVG"/>
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://linkedin.com/in/swarnabha-dutta-0ab583222">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://animated-3-d-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-See%20My%20Work-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:swarnabhadutta909@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-📍 India | Open to Remote Full-Stack Roles (India + Global)
+  <img src="https://komarev.com/ghpvc/?username=swarnabha-dutta&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/swarnabha-dutta?logo=github&style=for-the-badge&color=0F172A"/>
 </p>
 
----
-<div align='center'>
-  
-# 🏆 Profile Badges
-</div>
-
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Focus-FullStack%20Engineering-blue"/>
-<img src="https://img.shields.io/badge/Architecture-SaaS%20Apps-green"/>
-<img src="https://img.shields.io/badge/AI-LLM%20Integration-purple"/>
-<img src="https://img.shields.io/badge/Performance-Optimization-orange"/>
-<img src="https://img.shields.io/badge/Open%20To-Remote%20Jobs-success"/>
-
-</p>
+<br/>
 
 ---
 
+## `$ whoami`
 
-<div align='center'>
-# 🚀 About Me
-</div>
+```yaml
+name        : Swarnabha Dutta
+role        : Full-Stack Engineer · AI SaaS Builder
+location    : India 🇮🇳  (UTC+5:30)
 
+currently   :
+  - Architecting AI-first SaaS products with real production usage
+  - Obsessing over backend performance — caching, latency, throughput
+  - Deep-diving into Distributed Systems & System Design
 
-I build **production-ready full-stack applications** with focus on:
+philosophy  : "Ship fast. Measure ruthlessly. Optimize relentlessly."
 
-- scalable backend architecture
-- performance optimization
-- authentication & security
-- AI-powered automation
-- clean, maintainable UI systems
-
-I have already designed, built, and deployed **3 SaaS-style applications** solving real-world problems using modern engineering practices.
-
-I enjoy working across the stack — from **database schema design** to **API performance optimization** to **frontend UX polish**.
-
----
-
-
-<div align='center'>
-# 🧠 Engineering Skillset  
-</div>
-
-| Domain | Technologies |
-|--------|--------------|
-| Frontend Architecture |  React.js, Tailwind |
-| Backend Systems | Node.js, Express.js, Server Actions, REST APIs |
-| Databases | PostgreSQL, MongoDB, Prisma ORM |
-| Authentication | Clerk Auth, JWT|
-| DevOps | Vercel, Render|
-| AI Integration | Google Gemini API, prompt engineering |
-| Problem Solving | Data Structures & Algorithms (276+ LeetCode) |
-
----
-<div align='center'>
-
-# 🛠 Tech Stack
-  
-</div>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind,mongodb,prisma,redis,git,github,docker"/>
-
-</p>
-
----
-<div align="center">
-# 🏗️ Production Applications  
-</div>
-
-
-<div align="center">
-## 🤖 AI Code Reviewer  
-</div>
-
-
-
-LLM-powered SaaS that analyzes code quality automatically
-
-Key engineering highlights:
-
-• Redis caching using SHA-256 content hash keys
-
-• Reduced response latency by 93% (19s → 1.3s)
-
-• 667% faster repeated responses (20s → 30ms cached)
-
-• Eliminates repeated LLM calls for identical code inputs
-
-• JWT authentication with per-user isolation
-
-• File upload pipeline using Multer memory storage
-
-• Modular Express architecture with centralized error handling
-
-• Dockerized backend deployment on Render
-
-Tech badges:
-
-![React](https://img.shields.io/badge/React-20232A?logo=react)
-![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis)
-![Gemini](https://img.shields.io/badge/AI-Gemini-blue)
-
-Live:
-https://ai-code-reviewer-frontend-feb.onrender.com
-
-Repo:
-https://github.com/swarnabha-dutta/AI_Code_Reviewer
+open_to     :
+  - Remote Full-Stack Engineer roles
+  - Remote Backend Engineer roles
+  - AI product teams building at scale
+```
 
 ---
 
+## ⚡ Impact Metrics
+
+> Numbers engineered — not estimated.
 
 <div align="center">
 
-## 🏥 HealthCheckBuddy 
+| Metric | Result | Context |
+|:-------|:------:|:--------|
+| 🏗️ Production SaaS Apps Shipped | **5** | Full lifecycle — idea to deployment |
+| ⚡ API Latency Reduction | **93%** | Multi-layer Redis caching strategy |
+| 🚀 Cache Performance Gain | **667×** | Cached vs cold Gemini API calls |
+| 💸 AI API Cost Reduction | **82%** | Repeat queries served from cache |
+| 🎯 Lighthouse Performance Score | **99 / 100** | 3D Animated Portfolio |
+| 🔐 Auth Systems Delivered | **3** | Clerk · JWT · BetterAuth |
+| 🤖 AI Integrations Built | **3** | Gemini · Vapi · ElevenLabs |
+
 </div>
 
-
-Full-stack telemedicine platform with role-based workflows
-
-Key engineering highlights:
-
-• RBAC system for Patient / Doctor / Admin dashboards  
-• Atomic credit transactions using Prisma `$transaction()`  
-• Secure video consultation using Vonage Video API  
-• Server Actions for backend logic colocation  
-• Optimized performance → Lighthouse score 93.5  
-
-Tech badges:
-
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma)
-![Clerk](https://img.shields.io/badge/Auth-Clerk-purple)
-
-Live:
-https://health-check-buddy.vercel.app
-
-Repo:
-https://github.com/swarnabha-dutta/Health_Check_Buddy
-
----
-## 📈 StockPilot
-Real-time stock insights dashboard with AI summaries
-
-Key engineering highlights:
-
-• TradingView chart integration  
-• cron-based AI daily insights generation  
-• secure authentication using Better-Auth  
-• modular backend service architecture  
-
-Tech badges:
-
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma)
-![Postgres](https://img.shields.io/badge/Postgres-316192?logo=postgresql)
-![Gemini](https://img.shields.io/badge/AI-Gemini-blue)
-
-Live:
-https://stock-pilot.vercel.app
-
-Repo:
-https://github.com/swarnabha-dutta/stock_pilot
-
 ---
 
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,nodejs,express,mongodb,postgresql,prisma,redis,docker,git,github,tailwind,vscode&perline=8"/>
+</p>
+
+<br/>
 
 <div align="center">
 
-# 📊 Engineering Metrics 
+**Languages & Frameworks**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Databases & Caching**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**AI & Infrastructure**
+
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
 </div>
 
+---
+
+## 🚀 Featured Projects
+
+> Ordered by engineering complexity and product value.
+
+---
+
+### 📚 Bookify — AI Voice Learning Platform
+> *"Turn any PDF into a conversation."*
+
+An AI-powered SaaS that converts static PDFs into interactive voice-based learning experiences — combining semantic search, real-time voice synthesis, and subscription-gated access.
+
+**Engineering Highlights**
+- 🔍 Semantic search over PDF content using vector embeddings
+- 🎙️ Real-time voice conversation layer via Vapi + ElevenLabs
+- 📄 PDF processing pipeline with intelligent chunking & indexing
+- 💳 Full subscription management with usage-based throttling
+- 📊 Product analytics via PostHog for retention insights
+
+**Stack:** `Next.js` `TypeScript` `MongoDB` `Clerk` `Vapi` `ElevenLabs` `PostHog`
+
+[![Repo](https://img.shields.io/badge/GitHub-Bookify-181717?style=flat-square&logo=github)](https://github.com/swarnabha-dutta/bookify)
+
+
+
+[![Live](https://img.shields.io/badge/Live-Demo-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/swarnabha-dutta/bookify)
+
+---
+
+### 🤖 AI Code Reviewer — 93% Latency · 667× Cache · 82% Cost Reduction
+> *"What if code review was instant and nearly free?"*
+
+A production-grade AI code review platform where the real engineering isn't the AI — it's what happens after. Aggressive Redis caching makes repeat reviews instantaneous while slashing API costs.
+
+**Engineering Highlights**
+- ⚡ **93% latency reduction** via intelligent multi-layer caching
+- 🚀 **667× faster** cached responses compared to cold Gemini calls
+- 💸 **82% AI cost reduction** — repeat queries never touch the model
+- 🐳 Fully Dockerized backend for environment consistency
+- 🔄 Smart cache invalidation with configurable TTL policies
+
+**Stack:** `React` `Node.js` `Express` `MongoDB` `Redis` `Gemini AI` `Docker`
+
+[![Repo](https://img.shields.io/badge/GitHub-AI_Code_Reviewer-181717?style=flat-square&logo=github)](https://github.com/swarnabha-dutta/AI_Code_Reviewer)
+
+
+
+[![Live](https://img.shields.io/badge/Live-Demo-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://ai-code-reviewer-frontend-feb.onrender.com)
+
+---
+
+### 📈 StockPilot — Real-Time AI Stock Intelligence
+> *"Your personal quantitative analyst, always on."*
+
+A real-time stock intelligence dashboard combining professional-grade TradingView charts with Gemini-powered AI insights for contextual, data-driven decision support.
+
+**Engineering Highlights**
+- 📉 TradingView widget integration for institutional-grade charts
+- 🤖 Gemini-powered AI insights with per-ticker context awareness
+- 📌 Persistent watchlists backed by PostgreSQL + Prisma
+- 🔐 BetterAuth implementation for secure, session-managed access
+
+**Stack:** `Next.js` `TypeScript` `PostgreSQL` `Prisma` `Gemini AI`
+
+[![Repo](https://img.shields.io/badge/GitHub-StockPilot-181717?style=flat-square&logo=github)](https://github.com/swarnabha-dutta/stock_pilot)
+
+
+[![Live](https://img.shields.io/badge/Live-Demo-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://stock-pilot-tau.vercel.app)
+---
+
+### 🏥 HealthCheckBuddy — Healthcare SaaS Platform
+> *"Doctor-patient workflows that actually respect security."*
+
+A full-featured healthcare SaaS built with security-first architecture — RBAC, MFA, live video consultations, and subscription-gated access with Prisma-backed atomic operations.
+
+**Engineering Highlights**
+- 📹 Live doctor-patient video calls via Vonage API
+- 🔒 Fine-grained RBAC with role-scoped data access
+- 🛡️ Multi-Factor Authentication (MFA) as a first-class feature
+- 💳 Subscription tiers with plan-enforced feature gates
+- 🔁 Prisma transactions for atomic, consistent data operations
+
+**Stack:** `Next.js` `PostgreSQL` `Prisma` `Clerk`
+
+[![Repo](https://img.shields.io/badge/GitHub-HealthCheckBuddy-181717?style=flat-square&logo=github)](https://github.com/swarnabha-dutta/Health_Check_Buddy)
+
+[![Live](https://img.shields.io/badge/Live-Demo-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://health-check-buddy.vercel.app)
+
+
+---
+
+### 🎨 Animated 3D Portfolio — 99/100 Lighthouse
+> *"A portfolio that is itself a demonstration of skill."*
+
+An immersive Three.js-powered 3D developer portfolio with cinematic scenes and fluid animations — while still scoring 99/100 on Lighthouse. Performance and polish, not a tradeoff.
+
+**Stack:** `React` `Vite` `Three.js` `TailwindCSS`
+
+[![Repo](https://img.shields.io/badge/GitHub-3D_Portfolio-181717?style=flat-square&logo=github)](https://github.com/swarnabha-dutta/Animated_3D_portfolio)
+&nbsp;
+[![Live](https://img.shields.io/badge/Live-Demo-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://animated-3-d-portfolio.vercel.app)
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swarnabha-dutta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0F172A&title_color=2563EB&icon_color=2563EB&text_color=93C5FD"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=swarnabha-dutta&theme=tokyonight&hide_border=true&background=0F172A&ring=2563EB&fire=2563EB&currStreakLabel=93C5FD"/>
+</p>
 
-<img src="https://img.shields.io/badge/Latency%20Reduction-93%25-success"/>
-<img src="https://img.shields.io/badge/Cache%20Speedup-667x-blue"/>
-<img src="https://img.shields.io/badge/Lighthouse-93.5-brightgreen"/>
-<img src="https://img.shields.io/badge/SaaS%20Apps-3-purple"/>
-<img src="https://img.shields.io/badge/LeetCode-284%2B-orange"/>
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=swarnabha-dutta&theme=tokyo-night&hide_border=true&area=true&bg_color=0F172A&color=93C5FD&line=2563EB&point=ffffff&custom_title=Contribution+Activity"/>
+</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=swarnabha-dutta&theme=tokyonight&column=4&margin-w=10&margin-h=10&no-bg=true&no-frame=true"/>
 </p>
 
 ---
 
-# 📈 GitHub Activity
+## 🧠 Engineering Depth
+
+```
+WHAT I ACTUALLY CARE ABOUT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Backend Performance      ████████████████████  Obsessive
+  Distributed Caching      ███████████████████░  Deep
+  SaaS Architecture        ████████████████████  Shipping
+  AI Product Integration   ██████████████████░░  Growing fast
+  Auth & Security Systems  █████████████████░░░  Solid
+  System Design            ████████████████░░░░  Actively learning
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+## 🎯 2026 Targets
+
+- [ ] 🏗️ Ship **10+ production applications**
+- [ ] 🧠 Solve **500+ LeetCode problems** *(current: add your count here)*
+- [ ] 🌐 Make a meaningful **open source contribution**
+- [ ] 📐 Go deep on **distributed systems & system design**
+- [ ] 🤖 Build an **AI-first SaaS with real paying users**
+
+---
+
+## 🌎 Open To Opportunities
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=swarnabha-dutta&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://img.shields.io/badge/Full--Stack%20Engineer-2563EB?style=for-the-badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Backend%20Engineer-0F172A?style=for-the-badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Remote%20Worldwide-10B981?style=for-the-badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/AI%20Product%20Teams-7C3AED?style=for-the-badge"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=swarnabha-dutta&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=swarnabha-dutta&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🧩 Problem Solving
-
-• 283+ LeetCode problems solved  
-• strong foundation in data structures and algorithms  
-• regular contest participation  
-
-Focus areas:
-
-HashMap patterns  
-Sliding window  
-Recursion  
-Binary search  
-Tree traversal  
-Dynamic programming basics  
-
----
-
-# 💡 Current Focus
-
-• improving system design skills  
-• building scalable SaaS products  
-• learning distributed caching strategies  
-• strengthening DSA problem solving  
-
----
-
-# 🤝 Open to Opportunities
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Role-FullStack-blue"/>
-<img src="https://img.shields.io/badge/Role-Backend-green"/>
-<img src="https://img.shields.io/badge/Remote-Available-success"/>
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-orange"/>
-
-</p>
-
----
-
-# 📫 Contact
-
-<p align="center">
-
-<a href="https://linkedin.com/in/swarnabhadutta909">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://animated-3-d-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome"/>
-</a>
-
-<a href="mailto:swarnabhadutta909@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
+  <b>Available for remote roles &nbsp;·&nbsp; Fast responder &nbsp;·&nbsp; Serious about craft</b>
 </p>
 
 ---
 
 <p align="center">
-<b>I build products that solve real problems — optimized using real metrics.</b>
+  <a href="https://linkedin.com/in/swarnabha-dutta-0ab583222">
+    <img src="https://img.shields.io/badge/LinkedIn-Message%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://animated-3-d-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-See%20My%20Work-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:swarnabhadutta909@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2563EB,100:0F172A&section=footer"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=swarnabha-dutta&color=blueviolet&style=flat-square&label=Profile+Views"/>
+  <i>💡 I don't just write code — I engineer solutions that scale, perform, and ship.</i>
 </p>
