@@ -255,7 +255,7 @@ WHAT I ACTUALLY CARE ABOUT
 ## 🎯 2026 Targets
 
 - [ ] 🏗️ Ship **10+ production applications**
-- [ ] 🧠 Solve **500+ LeetCode problems** *(current: add your count here)*
+- [ ] 🧠 Solve **500+ LeetCode problems** *(current: 284+)*
 - [ ] 🌐 Make a meaningful **open source contribution**
 - [ ] 📐 Go deep on **distributed systems & system design**
 - [ ] 🤖 Build an **AI-first SaaS with real paying users**
