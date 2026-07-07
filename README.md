@@ -215,12 +215,9 @@ An immersive Three.js-powered 3D developer portfolio with cinematic scenes and f
 [![Live](https://img.shields.io/badge/Live-Demo-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://animated-3-d-portfolio.vercel.app)
 
 ---
-
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swarnabha-dutta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=2563EB&icon_color=2563EB&text_color=93C5FD"/>
-  &nbsp;
   <img height="180em" src="https://streak-stats.demolab.com/?user=swarnabha-dutta&theme=tokyonight&hide_border=true&background=0F172A&ring=2563EB&fire=2563EB&currStreakLabel=93C5FD"/>
 </p>
 
@@ -229,9 +226,14 @@ An immersive Three.js-powered 3D developer portfolio with cinematic scenes and f
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=swarnabha-dutta&theme=tokyonight&column=4&margin-w=10&margin-h=10&no-bg=true&no-frame=true"/>
+  <img src="https://img.shields.io/github/stars/swarnabha-dutta?style=for-the-badge&color=2563EB&label=Total%20Stars&labelColor=0F172A"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/swarnabha-dutta?style=for-the-badge&color=0F172A&label=Followers&logo=github"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=2563EB&label=Top%20Language&query=%24%5B0%5D.language&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fswarnabha-dutta%2Frepos%3Fsort%3Dupdated&labelColor=0F172A"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=2563EB&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fswarnabha-dutta&labelColor=0F172A"/>
 </p>
-
 ---
 
 ## 🧠 Engineering Depth
