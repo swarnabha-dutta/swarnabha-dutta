@@ -219,9 +219,9 @@ An immersive Three.js-powered 3D developer portfolio with cinematic scenes and f
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swarnabha-dutta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0F172A&title_color=2563EB&icon_color=2563EB&text_color=93C5FD"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swarnabha-dutta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=2563EB&icon_color=2563EB&text_color=93C5FD"/>
   &nbsp;
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=swarnabha-dutta&theme=tokyonight&hide_border=true&background=0F172A&ring=2563EB&fire=2563EB&currStreakLabel=93C5FD"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=swarnabha-dutta&theme=tokyonight&hide_border=true&background=0F172A&ring=2563EB&fire=2563EB&currStreakLabel=93C5FD"/>
 </p>
 
 <p align="center">
@@ -235,71 +235,3 @@ An immersive Three.js-powered 3D developer portfolio with cinematic scenes and f
 ---
 
 ## 🧠 Engineering Depth
-
-```
-WHAT I ACTUALLY CARE ABOUT
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  Backend Performance      ████████████████████  Obsessive
-  Distributed Caching      ███████████████████░  Deep
-  SaaS Architecture        ████████████████████  Shipping
-  AI Product Integration   ██████████████████░░  Growing fast
-  Auth & Security Systems  █████████████████░░░  Solid
-  System Design            ████████████████░░░░  Actively learning
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## 🎯 2026 Targets
-
-- [ ] 🏗️ Ship **10+ production applications**
-- [ ] 🧠 Solve **500+ LeetCode problems** *(current: 284+)*
-- [ ] 🌐 Make a meaningful **open source contribution**
-- [ ] 📐 Go deep on **distributed systems & system design**
-- [ ] 🤖 Build an **AI-first SaaS with real paying users**
-
----
-
-## 🌎 Open To Opportunities
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Engineer-2563EB?style=for-the-badge"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Backend%20Engineer-0F172A?style=for-the-badge"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Remote%20Worldwide-10B981?style=for-the-badge"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/AI%20Product%20Teams-7C3AED?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <b>Available for remote roles &nbsp;·&nbsp; Fast responder &nbsp;·&nbsp; Serious about craft</b>
-</p>
-
----
-
-<p align="center">
-  <a href="https://linkedin.com/in/swarnabha-dutta-0ab583222">
-    <img src="https://img.shields.io/badge/LinkedIn-Message%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://animated-3-d-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-See%20My%20Work-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:swarnabhadutta909@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<br/>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2563EB,100:0F172A&section=footer"/>
-</p>
-
-<p align="center">
-  <i>💡 I don't just write code — I engineer solutions that scale, perform, and ship.</i>
-</p>
