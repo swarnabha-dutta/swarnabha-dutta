@@ -66,7 +66,7 @@ open_to     :
 |:-------|:------:|:--------|
 | 🏗️ Production SaaS Apps Shipped | **5** | Full lifecycle — idea to deployment |
 | ⚡ API Latency Reduction | **93%** | Multi-layer Redis caching strategy |
-| 🚀 Cache Performance Gain | **667×** | Cached vs cold Gemini API calls |
+| 🚀 Cache Performance Gain | **667%** | Cached vs cold Gemini API calls |
 | 💸 AI API Cost Reduction | **82%** | Repeat queries served from cache |
 | 🎯 Lighthouse Performance Score | **99 / 100** | 3D Animated Portfolio |
 | 🔐 Auth Systems Delivered | **3** | Clerk · JWT · BetterAuth |
