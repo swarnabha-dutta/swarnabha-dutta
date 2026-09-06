@@ -115,7 +115,7 @@ open_to     :
 
 ## 🚀 Featured Projects
 
-> Ordered by engineering complexity and product value.
+> Ordered by engineering complexity and product value and its also deployed.
 
 ---
 
