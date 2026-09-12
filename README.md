@@ -38,7 +38,7 @@
 
 ```yaml
 name        : Swarnabha Dutta
-role        : Full-Stack Engineer · AI SaaS Builder
+role        : Full-Stack Engineer · AI SaaS Builder · AI Automations and RAG
 location    : India 🇮🇳  (UTC+5:30)
 
 currently   :
