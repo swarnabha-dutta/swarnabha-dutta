@@ -69,7 +69,7 @@ open_to     :
 | 🚀 Cache Performance Gain | **667%** | Cached vs cold Gemini API calls |
 | 💸 AI API Cost Reduction | **82%** | Repeat queries served from cache |
 | 🎯 Lighthouse Performance Score | **99 / 100** | 3D Animated Portfolio |
-| 🔐 Auth Systems Delivered | **3** | Clerk · JWT · BetterAuth |
+| 🔐 Auth Systems(Authentications) Delivered | **3** | Clerk · JWT · BetterAuth |
 | 🤖 AI Integrations Built | **3** | Gemini · Vapi · ElevenLabs |
 
 </div>
